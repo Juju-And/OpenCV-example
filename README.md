@@ -24,4 +24,4 @@ In order to run the script, scripts name should be folloved by 2 parameters: pic
 $ python face_detect.py sample_pictures/picture_name.jpg haarcascade_frontalface_default.xml
 ```
 
-As a result in console should be written how many faces were recognized. If to many/little, parameters in faces function could be changed.
+As a result in console should be written how many faces were recognized. If to many\little, parameters in faces function could be changed.
